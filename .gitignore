@@ -1,0 +1,5 @@
+config.h
+*.bin
+*.o
+*.elf
+lib/
