@@ -44,7 +44,7 @@ This project develops an automated attendance system using the ESP32 microcontro
    - Positive -> GPIO 25
    - Negative -> GND
 
-> **Note**: Refer to `docs/circuit_diagram.jpg` for a detailed schematic.
+> **Note:** Refer to [docs/circuit_diagram.png](docs/circuit_diagram.png) for a detailed schematic.
 
 ## Software Setup
 1. **Install Arduino IDE** and required libraries:
