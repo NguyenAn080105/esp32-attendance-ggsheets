@@ -78,10 +78,9 @@ This project develops an automated attendance system using the ESP32 microcontro
 > **Note**: Add images or videos if available (e.g., `docs/demo_video.mp4` or `docs/screenshot.jpg`).
 
 ## Author
-- **Name**: Nguyễn Anh Nguyên
-- **GitHub**: [NguyenAN80105](https://github.com/NguyenAN80105)
-- **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Name**: Hoang An Nguyen
+- **GitHub**: [NguyenAn80105](https://github.com/NguyenAN80105)
+- **Email**: nguyenan080105@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
