@@ -46,7 +46,7 @@ This project develops an automated attendance system using the ESP32 microcontro
    - Positive -> GPIO 25  
    - Negative -> GND  
 
-![📷 Circuit Diagram](assets/images/circuit_diagram.png)
+<img src="assets/images/circuit_diagram.png" alt="Circuit Diagram" width="400"/>
 
 ## 💻 Software Setup
 1. **Install Arduino IDE** and required libraries:
@@ -73,8 +73,8 @@ This project develops an automated attendance system using the ESP32 microcontro
    - The buzzer beeps to confirm the scan.
 3. Check the Google Sheet for updated attendance records (name, timestamp, status).
 
-## 📌 ESP32 Pinout
-(assets/images/ESP32-38pin-Develeopmen-Board-1.png)
+## 📌 ESP-WROOM-32-38pin Pinout
+<img src="assets/images/ESP32-38pin-Develeopmen-Board-1.png" alt="esp32-pinouts" width="400"/>
 
 ## 📋 Program Flow
 The program operates in a structured loop to manage attendance. Below is the flow:
@@ -106,16 +106,16 @@ The program operates in a structured loop to manage attendance. Below is the flo
 ## 📊 Result Reports
 The system records attendance data and uploads it to Google Sheets, providing real-time updates. Based on the provided data:
 **Student list**:
-(assets/images/student_uid_list.png)
+<img src="assets/images/student_uid_list.png" alt="Student List" width="400"/>
 **Attendance Results**:
    - Data is logged in another tab with timestamps and status.
    - Example (as of test data):
-(assets/images/result1.png)
+<img src="assets/images/result1.png" alt="Student List" width="400"/>
 **Demo Output**:
    - When a card is scanned (e.g., UID "2CF5FA03"), the LCD displays:
    - Initially: "Card Detected UID: 2CF5FA03"
    - After processing: "Welcome: Nguyen Van B"
-(assets/images/result.png)
+<img src="assets/images/result.png" alt="Student List" width="400"/>
    - Left: Card detection with UID.
    - Right: Welcome message with name.
 
