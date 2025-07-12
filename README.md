@@ -59,9 +59,9 @@ This project develops an automated attendance system using the ESP32 microcontro
    - Deploy a Google Apps Script to handle HTTP requests (refer to `docs/google_apps_script.js` if available).
    - Copy the script URL.
 3. **Configure WiFi and Server**: <br>
-     #define WIFI_SSID "Your_WiFi_SSID" <br>
-     #define WIFI_PASSWORD "Your_WiFi_Password" <br>
-     #define GOOGLE_SHEETS_URL "https://script.google.com/macros/s/Your_Script_ID/exec"
+       #define WIFI_SSID "Your_WiFi_SSID" <br>
+       #define WIFI_PASSWORD "Your_WiFi_Password" <br>
+       #define GOOGLE_SHEETS_URL "https://script.google.com/macros/s/Your_Script_ID/exec"
 4. **Upload Code**:
    - Open main.ino in Arduino IDE.
    - Upload the code to the ESP32.
@@ -121,8 +121,8 @@ The system records attendance data and uploads it to Google Sheets, providing re
 <img src="assets/images/result.png" alt="Student List" width="800"/>
    - Left: Card detection with UID. <br>
    - Right: Welcome message with name.  
-
-🔮 Future Improvements
+<br>
+🔮 Future Improvements 
 - 🕰️ Add a real-time clock (RTC) module for better time accuracy.
 - 🌐 Implement a web dashboard for attendance monitoring.
 - 🔐 Add user authentication for secure access to Google Sheets.
