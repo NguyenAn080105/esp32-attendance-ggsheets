@@ -106,7 +106,7 @@ The program operates in a structured loop to manage attendance. Below is the flo
 ## 📊 Result Reports
 The system records attendance data and uploads it to Google Sheets, providing real-time updates. Based on the provided data:
 
-**Student list**:
+**Student list**: <br>
 <img src="assets/images/student_uid_list.png" alt="Student List" width="800"/>
 
 **Attendance Results**:
@@ -120,9 +120,9 @@ The system records attendance data and uploads it to Google Sheets, providing re
    - After processing: "Welcome: Nguyen Van B"
 <img src="assets/images/result.png" alt="Student List" width="800"/>
    - Left: Card detection with UID. <br>
-   - Right: Welcome message with name.  
-<br>
-🔮 Future Improvements 
+   - Right: Welcome message with name. <br>
+   
+🔮 Future Improvements
 - 🕰️ Add a real-time clock (RTC) module for better time accuracy.
 - 🌐 Implement a web dashboard for attendance monitoring.
 - 🔐 Add user authentication for secure access to Google Sheets.
