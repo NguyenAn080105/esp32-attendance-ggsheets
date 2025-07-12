@@ -105,6 +105,7 @@ The program operates in a structured loop to manage attendance. Below is the flo
 
 ## 📊 Result Reports
 The system records attendance data and uploads it to Google Sheets, providing real-time updates. Based on the provided data:
+
 **Student list**:
 <img src="assets/images/student_uid_list.png" alt="Student List" width="800"/>
 
