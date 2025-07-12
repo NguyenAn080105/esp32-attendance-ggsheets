@@ -122,12 +122,12 @@ The system records attendance data and uploads it to Google Sheets, providing re
    - Left: Card detection with UID. <br>
    - Right: Welcome message with name. <br>
    
-🔮 Future Improvements
+## 🔮 Future Improvements
 - 🕰️ Add a real-time clock (RTC) module for better time accuracy.
 - 🌐 Implement a web dashboard for attendance monitoring.
 - 🔐 Add user authentication for secure access to Google Sheets.
 
-👤 Author <br>
+## 👤 Author <br>
 Name: Hoang An Nguyen <br>
 GitHub: NguyenAn080105 <br>
 Email: nguyenan080105@gmail.com
