@@ -127,7 +127,7 @@ The system records attendance data and uploads it to Google Sheets, providing re
 - 🌐 Implement a web dashboard for attendance monitoring.
 - 🔐 Add user authentication for secure access to Google Sheets.
 
-👤 Author
-Name: Hoang An Nguyen
-GitHub: NguyenAn080105
+👤 Author <br>
+Name: Hoang An Nguyen <br>
+GitHub: NguyenAn080105 <br>
 Email: nguyenan080105@gmail.com
